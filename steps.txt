@@ -1,0 +1,9 @@
+Learning steps:
+
+# step 1
+model creation
+migrations -> databases -> SQLs
+working with timezone (django's, users) 
+
+# step 2
+
